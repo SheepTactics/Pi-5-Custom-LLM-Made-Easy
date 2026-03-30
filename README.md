@@ -52,3 +52,10 @@ Once downloaded, models run completely offline. They are cached in `Llama/models
 
 ## Want Any Features or Updates?
 Just let me know and I'll add them.
+
+## Plans
+* Add messaging option to another app
+* Web search option
+* voice in / out
+* visual voice reation
+* txt stored memories
