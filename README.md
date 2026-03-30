@@ -1,6 +1,6 @@
 Just Paste all in one into the console terminal. It creates a `Llama` folder on your Desktop containing the config, personality file, and models directory, plus a desktop launcher. Everything is linked and works together.
 
-Go into `llama-config.txt`, set the `CURRENT_MODEL` to a Hugging Face model URL (or publisher/modelname), then double-click the launcher. The script handles all dependencies, builds llama.cpp with HTTPS support, and manages everything with no bulky overhead like Python or Ollama.
+Go into `llama-config.txt`, set the `CURRENT_MODEL` to a Hugging Face model URL (or publisher/modelname), then double-click the launcher. The script handles all dependencies, builds llama.cpp with HTTPS support, and manages everything with no bulky overhead like Python or Ollama and no servers for security.
 
 ## What Gets Created
 
